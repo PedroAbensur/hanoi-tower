@@ -1,4 +1,4 @@
-    # C Language Tower of Hanoi
+# C Language Tower of Hanoi
 1) Simple Hanoi Tower program in C, implemented with singly listed stacks, using memory allocation.  
 2) Generates from 3 to 5 pegs and/or disks. 
 3) Given an invalid input, the program will request another one.
